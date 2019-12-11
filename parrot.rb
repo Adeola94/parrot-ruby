@@ -1,5 +1,5 @@
 def parrot
-p = "Squawk!"
+my_pet = "Squawk!"
 puts my_pet
 end 
 
